@@ -1,0 +1,95 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.wrapper {
+    width: 100px;
+    height: 300px;
+    margin: 0px;
+    padding: 10px;
+    border: 2px solid black;
+    position: relative;
+    background-color: black;
+    float: left;
+}
+
+.segment {
+    height: 70px;
+    width: 10px;
+    background-color: red;
+    border-radius: 5px;
+    position: absolute;
+    box-shadow: 0 3px 10px red;
+}
+
+.s1 {
+    top: 30px;
+    left: 59px;
+    transform: rotate(90deg);
+}
+
+.s2 {
+    top: 70px;
+    left: 24px;
+}
+
+.s3 {
+    top: 70px;
+    left: 94px;
+}
+
+.s4 {
+    top: 110px;
+    left: 59px;
+    transform: rotate(90deg);
+}
+
+.s5 {
+    top: 150px;
+    left: 24px;
+}
+
+.s6 {
+    top: 150px;
+    left: 94px;
+}
+
+.s7 {
+    top: 190px;
+    left: 59px;
+    transform: rotate(90deg);
+}
+
+.ugasen {
+    opacity: 0.05;
+}
+
+.dvotacka {
+    width: 20px;
+    height: 300px;
+    margin: 0px;
+    padding: 10px;
+    border: 2px solid black;
+    position: relative;
+    background-color: rgb(0, 0, 0);
+    float: left;
+}
+
+.tacka {
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: red;
+    position: absolute;
+    box-shadow: 0 3px 10px red;
+}
+
+.t1 {
+    left: 19px;
+    top: 103px;
+}
+
+.t2 {
+    left: 19px;
+    top: 184px;
+}
